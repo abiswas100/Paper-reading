@@ -1,0 +1,34 @@
+Qualitative and quantitative differentiation of gases
+using ZnO thin film gas sensors and pattern
+recognition analysis
+
+
+what it is about??
+
+Nano-crystalline ZnO thin films were grown using 2 methods
+    *metal organic chemical vapor deposition
+and the selectivity was tested for 3 gases (hydrogen , Co2,Ch4).
+
+Structural and Micro-Structural characteristics were also invesigated usig 2 methods:
+*X ray diffraction
+*electron microscopy technique
+
+A dynamic flow gas sensing setup the sensing characteristics were checked for gas concentration of 10-1 ppm at
+ 250-380 'C.These films worked for all the gases and produced 
+,68 59 nd 52 % response respectively.
+
+the data matrices recieved form FFT analysis of the conductance transient were used as input parameters in a linear unsupervised principal component analysis(PCA) pattern recognition technique.
+
+principal component analysis(PCA) pattern recognition technique - 
+
+
+
+Introduction:
+What is cross sentivity??
+
+semiconductor oxides were used because they have excellent sensitivty characteristics but their poor selectivity limits application.
+
+approach of using sensor arrays were attempted instead of single discrete sensor, temperature modulation of the sensing element, use of surface
+sensitizers and filters, noise spectroscopy analyses of conductance transients etc.
+
+3 other paper work were studied for this:
