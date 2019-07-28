@@ -32,3 +32,8 @@ approach of using sensor arrays were attempted instead of single discrete sensor
 sensitizers and filters, noise spectroscopy analyses of conductance transients etc.
 
 3 other paper work were studied for this:
+*tomchenko et.al - . used a SMO based thick film sensor array in a sensor operating temperature ranging from 200–400 *C
+*Ramgir et.al - incorporated platinum (Pt) into a SnO2 thin film for selective CO detection
+*Ippolito et.al - 5 investigated the catalytic effect of platinum and gold in WO3 thin film sensing elements for selective hydrogen gas sensing performance.
+*Gomri et al- utilized noise spectroscopy analysis to address the cross-sensitivity of their sensing elements
+
