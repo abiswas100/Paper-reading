@@ -1,0 +1,23 @@
+Addressing the Cross-Sensitivity of Magnesium
+Zinc Ferrite Towards Reducing Gas Sensing
+Using Pattern Recognition Techniques
+
+
+what it is about?
+Pattern Recognition is used to address the cross-sensitivity of nano-crystalline 
+magnesium zinc ferrite as combustible gas sensors.
+
+Strategies Used:
+* during gas sensing, the natureof the transient resistance response at different operating temperature 
+depends on the type of test gas under investigation. 
+*  various catalyst semi-conducting oxide combinations have been used to improve the sensitivity of 
+    the respective oxide towards speciﬁc gas
+* noise spectroscopy analysis of conductance transient have been adopted to address the selectivity issue.
+
+now the limited success of these Techniques is due to the use of :
+* expensive precursor material for sensor synthesis, costly equipment and laboratory procedure 
+which is non conductive to yield continuous gas monitoring for any practical application.
+
+
+
+
