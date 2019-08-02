@@ -25,6 +25,10 @@ principal component analysis(PCA) pattern recognition technique -
 
 Introduction:
 What is cross sentivity??
+It is basically a reduced response to of the subject due to the presence of another inibiting factor.
+
+
+
 
 semiconductor oxides were used because they have excellent sensitivty characteristics but their poor selectivity limits application.
 
